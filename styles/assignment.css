@@ -48,10 +48,6 @@
 .my-failurs {
     display: flex;
     margin: 130px 200px;
-
-}
-.failurs{
-    
 }
 
 .my-failus-title {
@@ -71,8 +67,6 @@
     margin-bottom: 16px;
     padding-right: 450px;
     padding-left: 300px;
-    
-
 }
 
 .my-failurs-description {
@@ -83,3 +77,4 @@
     padding-left: 300px;
     padding-bottom: 300px;
 }
+/* my plans styles */
