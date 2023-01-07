@@ -6,18 +6,19 @@
 .header {
     background-image: url(../images/banner/banner1.png);
     background-repeat: no;
-    background-color: #FFFFFF;
-    width: 1600px;
-    height: 808px;
-    text-align: right;
     background-position: center;
+    background-color: #FFFFFF;
+    height: 808px;
+    background-size: cover;
+    text-align: right;
+
 }
 
 /* banner styles */
 .banner {
     padding-top: 216px;
     padding-right: 230px;
-    padding-left: 845px;
+    padding-left: 950px;
 }
 
 .banner-title {
@@ -41,4 +42,44 @@
     height: 64px;
     border-radius: 5px;
     background: #F15B22;
+}
+
+/* my failurs styles */
+.my-failurs {
+    display: flex;
+    margin: 130px 200px;
+
+}
+.failurs{
+    
+}
+
+.my-failus-title {
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 24px;
+    padding-top: 370px;
+    padding-right: 450px;
+    padding-left: 300px;
+}
+
+.failurs-sub-title {
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 16px;
+    padding-right: 450px;
+    padding-left: 300px;
+    
+
+}
+
+.my-failurs-description {
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    padding-right: 450px;
+    padding-left: 300px;
+    padding-bottom: 300px;
 }
